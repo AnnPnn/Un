@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "526433826977",
+    "firebase_url": "https://unib-def37-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "unib-def37",
+    "storage_bucket": "unib-def37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526433826977:android:2442b753dd757346c5d8e0",
+        "android_client_info": {
+          "package_name": "com.anpln.uniboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526433826977-jql1f9of07r4uiffns5aaivn4vdokmi8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anpln.uniboard",
+            "certificate_hash": "8898fe02249873af24cf4665c97fe70b21042537"
+          }
+        },
+        {
+          "client_id": "526433826977-id3o86faj1ihrfif4ap7k39658gta277.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5o1nWJWf5j4viPzTRCbTAYxL4hxB-HBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526433826977-id3o86faj1ihrfif4ap7k39658gta277.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

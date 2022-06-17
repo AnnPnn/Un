@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="category">
+      <item>Курсы</item>
+      <item>Репетиторство</item>
+      <item>Вакансии</item>
+      <item>Учебные материалы</item>
+      <item>Помощь в написании работ</item>
+      <item>Учебная практика</item>
+  </string-array>
+
+</resources>
+    <!--массив для хранения категорий-->
